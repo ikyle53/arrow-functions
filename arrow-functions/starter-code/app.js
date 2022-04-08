@@ -195,3 +195,4 @@ joe.scopeArrow();
 // 3. Explain why "this" is different when an arrow function is used.
 // 'this' when used in a regular function takes on the local value(s) of that function. When we use an arrow funcion
 // it takes the global scope values (be it the window object, or a global function).
+
